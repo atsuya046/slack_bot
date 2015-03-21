@@ -14,3 +14,4 @@ gem "lita-slack"
 gem "lita-google-images"
 gem "lita-karma"
 gem 'lita-cron'
+gem "lita-ping", github: "atsuya046/lita-ping"

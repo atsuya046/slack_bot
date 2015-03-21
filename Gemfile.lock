@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/atsuya046/lita-ping.git
+  revision: bbb7981944098790e3f1e867e60d0736195ab238
+  specs:
+    lita-ping (1.0.1)
+      lita (>= 4.3.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -66,4 +73,5 @@ DEPENDENCIES
   lita-cron
   lita-google-images
   lita-karma
+  lita-ping!
   lita-slack
