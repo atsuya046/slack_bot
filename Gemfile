@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby "2.1.2"
+
 gem "lita"
 
 gem "lita-slack"
@@ -11,3 +13,4 @@ gem "lita-slack"
 # For example:
 gem "lita-google-images"
 gem "lita-karma"
+gem 'lita-cron'
