@@ -15,3 +15,4 @@ gem "lita-google-images"
 gem "lita-karma"
 gem 'lita-cron'
 gem "lita-ping", github: "atsuya046/lita-ping"
+gem "lita-todo", github: "atsuya046/lita-todo"

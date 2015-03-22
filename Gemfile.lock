@@ -5,6 +5,13 @@ GIT
     lita-ping (1.0.1)
       lita (>= 4.3.1)
 
+GIT
+  remote: git://github.com/atsuya046/lita-todo.git
+  revision: c0e620b4ef0fd3b00a495c25345e035b4efd77c4
+  specs:
+    lita-todo (0.0.1)
+      lita (>= 4.3.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -75,3 +82,4 @@ DEPENDENCIES
   lita-karma
   lita-ping!
   lita-slack
+  lita-todo!
